@@ -11,7 +11,7 @@
      The Original Code is https://github.com/ckeditor/ckeditor4.
 
      The Initial Developer of the Original Code is CKSource Holding sp. z o.o.
-     Portions created by Creatio team are Copyright (C) Creatio EMEA, Ltd. All Rights Reserved.
+     Portions created by Creatio team are Copyright (C) Creatio EMEA Ltd. All Rights Reserved.
 
 | Folder | Contributions |
 |--------|-------------|
