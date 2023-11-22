@@ -7,7 +7,7 @@
  * @fileOverview Simple CKEditor 4 plugin that adds placeholder text to the editor.
  */
 ( function() {
-	CKEDITOR.plugins.add( 'editorplaceholder', {
+	CKEDITOR.plugins.add( 'creatioeditorplaceholder', {
 		isSupportedEnvironment: function() {
 			return !CKEDITOR.env.ie || CKEDITOR.env.version >= 9;
 		},
@@ -39,11 +39,11 @@
 	 * Namespace providing the configuration for the Editor Placeholder plugin.
 	 *
 	 * @singleton
-	 * @class CKEDITOR.plugins.editorplaceholder
+	 * @class CKEDITOR.plugins.creatioeditorplaceholder
 	 * @since 4.15.0
 	 * @member CKEDITOR.plugins
 	 */
-	CKEDITOR.plugins.editorplaceholder = {
+	CKEDITOR.plugins.creatioeditorplaceholder = {
 		/**
 		 * Styles that would be applied to the editor by the placeholder text when visible.
 		 *
